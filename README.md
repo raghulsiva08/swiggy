@@ -164,6 +164,8 @@ spring.jpa.show-sql=true
 
 ---
 ## Output
+<img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/0902aae4-9a63-4a85-b53e-fa026716d4a9" />
+
 <img width="1600" height="899" alt="WhatsApp Image 2026-07-11 at 10 42 58 AM" src="https://github.com/user-attachments/assets/ecef1c1f-e3aa-4a06-b759-1218046b73f4" />
 
 <img width="1403" height="567" alt="WhatsApp Image 2026-07-11 at 10 31 59 AM" src="https://github.com/user-attachments/assets/c5cdf6f5-b7f1-4bd7-a43b-8f7ad987e806" />
